@@ -1,0 +1,26 @@
+img{
+    width: 250px;
+    height:250px;
+}
+.de{
+    font-size: 30px;
+    color:yellow;
+    width:600px;
+        
+}
+h1{
+    font-size: 60px;
+    color:darkorchid;
+}
+h2{
+    font-size: 45px;
+    color:darkblue;
+    padding-bottom:10px;
+}
+body{
+    background-color:cornflowerblue;
+}
+h3{
+    font-size: 35px;
+    color: darkgreen;
+}
